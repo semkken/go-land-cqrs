@@ -1,7 +1,3 @@
-module book-management
+module go-appointment-system
 
-go 1.22.2
-
-require (
-    github.com/gorilla/mux v1.8.0 
-)
+go 1.20
